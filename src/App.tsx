@@ -8,7 +8,6 @@ import AppLayout from './Components/AppLayout/AppLayout'
 import {theme} from './Theme/Theme'
 import { ThemeProvider } from '@mui/material/styles'
 import { CssBaseline } from '@mui/material'
-import React from 'react'
 
 function App() {
   return (
