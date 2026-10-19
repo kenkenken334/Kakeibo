@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/void/schema.json",
+  "auth": { "providers": ["google"] },
+  "worker": {
+    "compatibility_date": "2026-10-17"
+  }
+}

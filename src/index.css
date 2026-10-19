@@ -1,0 +1,5 @@
+/* Layout and typography are provided by the shared MUI theme. */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
